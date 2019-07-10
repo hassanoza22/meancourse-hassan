@@ -9,6 +9,7 @@ import { HeaderComponent } from './header/header.component';
 import { PostListComponent } from './posts/post-list/post-list.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
